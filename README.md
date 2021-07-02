@@ -1,4 +1,4 @@
-# Minecraft-Player-Scoreboards-Spigot-Plugin
+# Player Scoreboards 1.17
 Plugin that lets players edit their personal scoreboard. This plugin is for spigot. Its is not done yet.
 Make sure to get the release to the right of the github. And put the .jar file in your plugins folder.
 
