@@ -13,11 +13,11 @@ Edit Scoreboard Command.
 
 **Previews**
 
-GUI Preview
+GUI Preview \n
 
-![image](https://github.com/BeastBomber23/Minecraft-Player-Scoreboards-Spigot-Plugin-1.17/blob/main/Test/Assets/GuiPreview.png?raw=true)
+![image](https://github.com/BeastBomber23/Minecraft-Player-Scoreboards-Spigot-Plugin-1.17/blob/main/Test/Assets/GuiPreview.png?raw=true) \n
 
-Customizable Scoreboard Previews
+Customizable Scoreboard Previews \n
 
-![image](https://user-images.githubusercontent.com/59712082/124218396-1ecd0880-dac8-11eb-82f0-a5509ba700b8.png)
-![image](https://github.com/BeastBomber23/Minecraft-Player-Scoreboards-Spigot-Plugin-1.17/blob/main/Test/Assets/ScoreboardPreview2.png?raw=true)
+![image](https://user-images.githubusercontent.com/59712082/124218396-1ecd0880-dac8-11eb-82f0-a5509ba700b8.png) \n
+![image](https://github.com/BeastBomber23/Minecraft-Player-Scoreboards-Spigot-Plugin-1.17/blob/main/Test/Assets/ScoreboardPreview2.png?raw=true)\n
