@@ -3,7 +3,7 @@ Plugin that lets players edit their personal scoreboard. This plugin is for spig
 
 **Commands** (Currently only 1)
 ```
-Edit Scoreboard Commands.
+Edit Scoreboard Command.
   Main: /editpscoreboard
   Aliases: /editplayerscoreboard, /pscoreboard, /editscoreboard
   Permission: scoreboards.edit
