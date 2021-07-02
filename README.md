@@ -10,3 +10,14 @@ Edit Scoreboard Command.
   Description: This command brings up the UI menu to edit your scoreboard.
   Permission: scoreboards.edit
 ```
+
+**Previews**
+
+GUI Preview
+
+![image](https://github.com/BeastBomber23/Minecraft-Player-Scoreboards-Spigot-Plugin-1.17/blob/main/Test/Assets/GuiPreview.png?raw=true)
+
+Customizable Scoreboard Previews
+
+![image](https://user-images.githubusercontent.com/59712082/124218396-1ecd0880-dac8-11eb-82f0-a5509ba700b8.png)
+![image](https://github.com/BeastBomber23/Minecraft-Player-Scoreboards-Spigot-Plugin-1.17/blob/main/Test/Assets/ScoreboardPreview2.png?raw=true)
