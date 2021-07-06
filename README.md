@@ -5,10 +5,12 @@ The scoreboards also have a built in feature where red means their stat is low y
 Its kind of hard to explain but if you check out the preview images you can get a idea of what im talking about.
 
 **How to use**
-1. Download the release and put it in your plugins folder.  
-2. Once the server is started type in this command /editpscoreboard in the chat it wont work if you type it into the console.  
-3. Move the green glass panes with the stats you want to the top.For example if you want your username on the scoreboard move the glass plane with the name "Username" to the top.
-4. Press ESC to exit the customization and it will automaticly set it.
+```
+  1. Download the release and put it in your plugins folder.  
+  2. Once the server is started type in this command /editpscoreboard in the chat it wont work if you type it into the console.  
+  3. Move the green glass panes with the stats you want to the top.For example if you want your username on the scoreboard move the glass plane with the name "Username" to the top.
+  4. Press ESC to exit the customization and it will automaticly set it.
+```
 
 **Commands** (Currently only 1)
 ```
