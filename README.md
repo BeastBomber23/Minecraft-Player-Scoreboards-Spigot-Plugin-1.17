@@ -7,6 +7,13 @@
   Its kind of hard to explain but if you check out the preview images you can get a idea of what im talking about.
 ```
 
+**IMPORTANT**
+```
+   Make sure you close your server propperly so the scoreboards save. 
+   To close it propperly in console just type "Stop" and press enter. 
+   If your server is running off of multi craft just press the stop button.
+```
+
 **How to use**
 ```
   1. Download the release and put it in your plugins folder.  
