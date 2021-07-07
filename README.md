@@ -17,7 +17,7 @@
 **How to use**  
   1. Download the release and put it in your plugins folder.  
   2. Once the server is started type in this command /editpscoreboard in the chat it wont work if you type it into the console.  
-  3. Move the green glass panes with the stats you want to the top.For example if you want your username on the scoreboard move the glass plane with the name "Username" to the top.
+  3. Move the green glass panes with the stats you want to the top.For example if you want your username on the scoreboard move the glass pain with the name "Username" to the top.
   4. Press ESC to exit the customization and it will automaticly set it.
 
   
