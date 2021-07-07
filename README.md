@@ -21,13 +21,17 @@
   4. Press ESC to exit the customization and it will automaticly set it.
 
   
-**Commands** (Currently only 1)
+**Commands**
 ```
 Edit Scoreboard Command.
   Main: /editpscoreboard
   Aliases: /editplayerscoreboard, /pscoreboard, /editscoreboard
-  Description: This command brings up the UI menu to edit your scoreboard.
+  Description: This command lets you edit your scoreboard.
   Permission: scoreboards.edit
+Edit Default Scoreboard Command.
+  Main: /setdefaultscoreboard
+  Description: This command lets admins edit the default scoreboard. The default scoreboard is what new players see.
+  Permission: scoreboards.setdefault
 ```
 
   
