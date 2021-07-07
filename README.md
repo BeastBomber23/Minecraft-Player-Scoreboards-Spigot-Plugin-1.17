@@ -1,11 +1,13 @@
 # Player Scoreboards 1.17  
 **Description**  
+
   Plugin that lets players edit their personal scoreboard. This plugin is for spigot. Its is not done yet.
   Make sure to get the release to the right of the github. And put the .jar file in your plugins folder.
   The scoreboards also have a built in feature where red means their stat is low yellow is medium green is good and purple is mastered.
   Its kind of hard to explain but if you check out the preview images you can get a idea of what im talking about.
 
 **IMPORTANT**  
+
    Make sure you close your server propperly so the scoreboards save. 
    To close it propperly in console just type "Stop" and press enter. 
    If your server is running off of multi craft just press the stop button.
